@@ -1,4 +1,4 @@
-@extends('layouts.admin.main')
+@extends('layouts.warga.main')
 
 @section('container')
 

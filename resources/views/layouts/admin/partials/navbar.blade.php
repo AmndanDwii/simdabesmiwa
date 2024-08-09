@@ -55,7 +55,7 @@
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
                                     <a class="nav-link" href="layout-static.html">Data Keberangkatan</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Data kepulangan</a>
+                                    <a class="nav-link" href="/datakepulangan">Data kepulangan</a>
                                 </nav>
                             </div>
                     </div>
